@@ -1,0 +1,12 @@
+{
+  "name": "JBC Token",
+  "description": "JimmyBoss Collective — Real Community. Real Power. Real Earnings.",
+  "symbol": "JBC",
+  "image": "https://i.ibb.co/YTWw3vw/JBC-logo.png",
+  "decimals": 9,
+  "social": {
+    "coinmarketcap": "https://coinmarketcap.com/community/profile/Jimmyboss/",
+    "twitter": "https://x.com/jimmyboss48",
+    "telegram": "https://t.me/JimmyBossVIP"
+  }
+}
